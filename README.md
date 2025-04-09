@@ -1,5 +1,14 @@
 # Serverless_Task_Manager 📝
 
+
+
+<img width="1190" alt="Screenshot 2025-04-05 at 6 48 22 PM" src="https://github.com/user-attachments/assets/ddfa89d5-844c-4d2b-a892-94288b26f58b" />
+
+
+
+
+
+
 A simple serverless ToDo API built using **AWS Lambda**, **API Gateway**, and **DynamoDB**. This project demonstrates how to build a RESTful backend using AWS services without managing any servers.
 
 ---
